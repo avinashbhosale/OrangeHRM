@@ -14,10 +14,8 @@ Prerequisites:
 Clone this repository:
 1. git clone https://github.com/avinashbhosale/OrangeHRM.git
 2. cd OrangeHRM
-3. Install dependencies:
-  - npm install
-4. Run the tests:
-  - npx playwright test
+3. Install dependencies: npm install
+4. Run the tests: npx playwright test
 
 # 🧪 Test Structure
 The tests are organized as follows:
