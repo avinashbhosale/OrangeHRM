@@ -11,7 +11,7 @@ Prerequisites:
  - npm (v7 or above)
 
 # Installation
-1.Clone this repository: git clone https://github.com/avinashbhosale/OrangeHRM.git
+1. Clone this repository: git clone https://github.com/avinashbhosale/OrangeHRM.git
 2. cd OrangeHRM
 3. Install dependencies: npm install
 4. Run the tests: npx playwright test
