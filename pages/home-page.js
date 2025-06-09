@@ -46,7 +46,7 @@ export class HomePage {
         this.logoutLink = page.locator('a[role="menuitem"]').filter({ hasText: 'Logout' });
 
         //Locator for My Info page
-        this.otherID = page.locator('(//div/input)[6]');
+        this.otherID = page.locator('(//div/input)[7]');
         this.nationalityDropDown = page.locator('.oxd-select-text-input').nth(0);
         this.maritalStatusDropDown = page.locator('.oxd-select-text-input').nth(1);
         this.dropDownOptionSelector = page.locator('div[role="option"] span');
